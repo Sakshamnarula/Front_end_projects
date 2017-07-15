@@ -1,0 +1,42 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.logo {
+  height:20%;
+  width:25%;
+
+    box-shadow: 10px 10px 5px #888888;
+}
+.col-md-6 {
+
+  color: #888888;
+}
+.row {
+  padding-top: 2%;
+}
+h4 {
+  color: #888888;
+}
+.life {
+  width: 100%;
+  height: 45%;
+  padding-top: 3%;
+  border-style: outset;
+}
+.col-md-4 {
+  padding-top: 2%;
+}
+.project-img {
+  width:75%;
+  padding-top: 2%;
+}
+body {
+  background-color: #B39DDB;
+}
+
+.text-center{
+  text-align: center;
+}
